@@ -1,5 +1,7 @@
 package one_one;
 
+// 앞으로 메인문은 생략할 예정
+
 import java.util.Arrays;
 import java.util.Enumeration;
 import java.util.Hashtable;
