@@ -23,7 +23,7 @@ public class Zero_Matrix {
 		Arrays.fill(check_x, 1);
 		Arrays.fill(check_y, 1);
 		
-		System.out.println("행렬을 입력하세요");
+		System.out.println("행렬을 입력하세요(행순서대로)");
 		for(int i=0; i<x; i++) {
 			for(int j=0; j<y; j++){
 				array[i][j] = Integer.parseInt(scan.next());
